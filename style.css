@@ -1,7 +1,6 @@
 body {
     background-image: url(/wallpaperbetter.jpg);
     color: white;
-
 }
 
 
@@ -12,7 +11,6 @@ header {
     border-radius: 20px;
     margin: 1em;
     width: 1110px;
-
 }
 
 header h1 {
@@ -21,7 +19,6 @@ header h1 {
 
 header h2 {
     padding: 0px 220px;
-    ;
 }
 
 main {
@@ -73,33 +70,27 @@ aside {
 
 article {
     display: inline-block;
-
 }
 
 #social_midia {
     color: black;
     line-height: 5px;
-
-
 }
 
 #github {
     border: 2px solid black;
     padding: 8px;
-    
     color: black;
 }
 
 #insta {
     border: 2px solid black;
     padding: 8px;
-    
     color: black;
 }
 
 #linkedin {
     border: 2px solid black;
     padding: 8px;
-    
     color: black;
 }
